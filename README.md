@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your Todo List app, including animated GIF placeholders to showcase your app's features:
-
----
 
 # Todo List App 📝  
 
@@ -56,17 +53,5 @@ A sleek and modern Todo List application built with **React.js** and **Vite** to
    npm run dev  
    ```  
 
----
-
-## 🌟 Demo  
-Check out the live demo [here](#) (Add your deployed URL).  
-
----
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to fork the repository and submit a pull request.  
  
-
----
-
-Replace the placeholder URLs with actual animations (e.g., GIFs recorded with tools like LICEcap, ScreenToGif, or an online GIF generator). Let me know if you need help creating the animations!
+ 
